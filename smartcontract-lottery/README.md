@@ -2,4 +2,3 @@
 2. An Admin will choose when the lottery is over
 3. Lottery will select a random winner
 
-test 1
